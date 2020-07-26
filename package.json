@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/aghahuseynov/javascript-oop/issues"
   },
-  "homepage": "https://github.com/aghahuseynov/javascript-oop#readme"
+  "homepage": "https://github.com/aghahuseynov/javascript-oop#readme",
+  "dependencies": {
+    "simple-git": "^2.15.0"
+  }
 }
